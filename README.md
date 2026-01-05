@@ -1,5 +1,6 @@
 # Harborlights Hotel
 🏨 **Harborlights Hotel - Project Summary**
+
 **1. Project Overview**
 
 This project represents a migration of a static Bootstrap 4 + jQuery template into a dynamic Full Stack Web Application.
