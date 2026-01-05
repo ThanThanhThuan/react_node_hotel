@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (contains DB passwords)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+pids
+*.pid
+*.pid.lock
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Coverage directory used by tools like istanbul
+coverage/
